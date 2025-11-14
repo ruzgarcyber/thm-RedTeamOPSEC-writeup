@@ -2,7 +2,7 @@
 > Selamlar herkese, bugün sizlere çözmüş olduğum **Red Team OPSEC** Lab'ını writeup şeklinde sunacağım.,
 
 ## Bilgiler.
-- Zorluk: **Kolay**
+- Zorluk: **Orta**
 - Lab adı: **Red Team OPSEC**
 - Writeup Yazarı: *Rüzgar Umut Gündoğan*
 - Writeup yazılma tarihi: *7.11.2025*
